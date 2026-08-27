@@ -25,5 +25,3 @@ scanf("%d", &b);
 printf(" O maior numero e: %d \n", maiorNum(a, b));
 
 }
-
-
