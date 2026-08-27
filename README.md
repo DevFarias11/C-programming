@@ -43,9 +43,9 @@ The main goal of this repository is to practice C programming through progressiv
 ## Progress
 
 * [x] Fundamentals
-* [ ] Control Flow
+* [x] Control Flow
 * [ ] Arrays
-* [ ] Functions
+* [x] Functions
 * [ ] Pointers
 * [ ] Structures
 * [ ] Data Structures
